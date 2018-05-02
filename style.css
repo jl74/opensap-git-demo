@@ -3,9 +3,10 @@ body {
 }
 
 h1 {
-	color: blue;
+	color: #E91E63;
 }
 
 li {
-	color: green;
+	color: #F06292;
+	font-style: italic;
 }
