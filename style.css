@@ -2,6 +2,10 @@ body {
 	font-family: Helvetica, sans-serif;
 }
 
+p{
+	color: #AD1457;
+}
+
 h1 {
 	color: #E91E63;
 }
